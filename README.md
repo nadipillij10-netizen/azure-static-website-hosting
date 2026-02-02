@@ -4,7 +4,7 @@
 This project demonstrates how a static frontend website can be hosted on Microsoft Azure using Azure Blob Storage's Static Website feature. The goal is to provide a serverless, scalable, and cost-effective hosting solution without using virtual machines or traditional web servers.
 
 ## What is a Static Website?
-A static website contains only frontend files such as HTML, CSS, and JavaScript.
+A static website contains only frontend files such as HTML, CSS.
 - No backend logic
 - No database
 - Content is served directly to users
@@ -25,7 +25,6 @@ Azure Blob Storage provides a Static Website feature that allows direct hosting 
 ### Frontend
 - HTML – Structure of the website
 - CSS – Styling and layout
-- JavaScript – Basic interactivity
 
 ### Cloud Platform
 - Microsoft Azure
